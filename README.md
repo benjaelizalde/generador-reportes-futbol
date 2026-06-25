@@ -62,7 +62,7 @@ Partidos disponibles: **9.325** (temporadas 2000/01 a 2024/25)
 
 3. Configurar la API Key de Gemini en un archivo `.env`
 
-`GEMINI_API_KEY=tu_clave_acá`
+   `GEMINI_API_KEY=tu_clave_acá`
 
 4. Descargar el dataset desde Kaggle y colocarlo en `data/raw/Matches.csv`
 
