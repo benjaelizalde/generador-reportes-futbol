@@ -9,7 +9,7 @@ UTN Facultad Regional La Plata — Ingeniería en Sistemas de Información
 
 Sistema de **IA Generativa** que, a partir de estadísticas reales de partidos de la **Premier League**, genera crónicas periodísticas automáticas en lenguaje natural.
 
-El pipeline toma datos estructurados de un partido (resultado, tiros, corners, tarjetas, forma reciente, cuotas) y los transforma en un reporte narrativo coherente, utilizando el modelo **Gemini Flash** de Google.
+El pipeline toma datos estructurados de un partido (resultado, tiros, corners, tarjetas, forma reciente, cuotas) y los transforma en un reporte narrativo coherente, utilizando el modelo **LLaMA 3.3 70B** a través de la API de **Groq**
 
 ---
 
@@ -31,7 +31,7 @@ El pipeline toma datos estructurados de un partido (resultado, tiros, corners, t
 - **Python 3.x**
 - **Pandas** — manipulación y limpieza de datos
 - **Matplotlib / Seaborn** — visualización
-- **Google Gemini Flash** — modelo generativo de lenguaje
+- **LLaMA 3.3 70B vía Groq API** — modelo generativo de lenguaje
 - **python-dotenv** — manejo de variables de entorno
 
 ---
@@ -60,9 +60,9 @@ Partidos disponibles: **9.325** (temporadas 2000/01 a 2024/25)
    pip install -r requirements.txt
 ```
 
-3. Configurar la API Key de Gemini en un archivo `.env`
+3. Configurar la API Key de Groq en un archivo `.env`
 
-   `GEMINI_API_KEY=tu_clave_acá`
+   `GROQ_API_KEY=tu_clave_acá`
 
 4. Descargar el dataset desde Kaggle y colocarlo en `data/raw/Matches.csv`
 
@@ -76,7 +76,7 @@ Partidos disponibles: **9.325** (temporadas 2000/01 a 2024/25)
 |----------|-------------|
 | `01_eda.ipynb` | Exploración del dataset, visualización de distribuciones y patrones |
 | `02_preprocessing.ipynb` | Selección de columnas, manejo de nulos y variables derivadas |
-| `03_prompting.ipynb` | Diseño del prompt, integración con Gemini y generación de crónicas |
+| `03_prompting.ipynb` | Diseño del prompt, integración con Groq y generación de crónicas |
 | `04_evaluation.ipynb` | Análisis crítico de la calidad y coherencia del contenido generado |
 
 ---
