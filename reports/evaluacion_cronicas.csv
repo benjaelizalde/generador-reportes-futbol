@@ -1,0 +1,110 @@
+MatchDate,HomeTeam,AwayTeam,FTResult,Upset,archivo,cronica,word_count,coherencia,relevancia,creatividad,fidelidad,comentario
+2021-03-19,Fulham,Leeds,A,True,../reports/2021-03-19_Fulham_vs_Leeds.txt,"**Sorpresa en Craven Cottage: Leeds derrota a Fulham en un emocionante partido**
+
+En un partido que nadie esperaba, Leeds United logró una victoria sorprendente sobre Fulham en el Craven Cottage, con un marcador final de 1-2. A pesar de ser considerados los favoritos, los locales no pudieron imponer su dominio y cayeron ante la determinación y la efectividad de los visitantes.
+
+El partido comenzó con un ritmo intenso, con ambos equipos creando oportunidades claras de gol. Al descanso, el marcador estaba empatado 1-1, lo que auguraba un segundo tiempo emocionante. Y así fue, ya que Leeds logró anotar el gol de la victoria en la segunda mitad, dejando a Fulham con una amarga derrota.
+
+En cuanto a las estadísticas, ambos equipos mostraron un equilibrio notable, con 13 tiros cada uno y un similar número de faltas y tarjetas amarillas. Sin embargo, la efectividad de Leeds en el área rival hizo la diferencia. Esta victoria es un gran golpe para Fulham, que venía de una forma irregular en los últimos partidos, mientras que Leeds se aleja de la zona de descenso con esta importante victoria.",184,5,4,4,2,"La crónica inventa detalles como el resultado y las estadísticas, pero fluye bien y utiliza un lenguaje dinámico"
+2018-12-26,Leicester,Man City,H,True,../reports/2018-12-26_Leicester_vs_Man_City.txt,"**Sorpresa en el King Power: Leicester vence a un Man City favorito**
+
+En un emocionante partido de la Premier League, el Leicester logró una inesperada victoria sobre el Manchester City, considerado el favorito según las cuotas. El encuentro, disputado el 26 de diciembre de 2018, terminó con un resultado final de 2-1 a favor de los ""Foxes"".
+
+El partido comenzó con un ritmo acelerado, y al descanso, ambos equipos iban empatados 1-1. Sin embargo, en la segunda mitad, Leicester encontró la manera de superar a su rival y anotar el gol de la victoria. A pesar de que el Man City dominó en algunas estadísticas, como los corners (7-3) y las faltas cometidas (8-5), no pudo capitalizar sus oportunidades.
+
+La expulsión de un jugador del Man City complicó aún más su tarea, y aunque acumuló 11 tiros, solo 4 de ellos fueron al arco. Por otro lado, Leicester fue más efectivo con 5 tiros al arco de 10 totales. Esta victoria es un gran logro para el Leicester, considerando la diferencia de 300 puntos de Elo entre ambos equipos y la forma reciente del visitante, que había acumulado 9 puntos en los últimos 5 partidos.",195,5,5,4,5,"La crónica presenta un flujo claro y fácil de seguir, con datos relevantes del partido y una narrativa interesante, aunque podría profundizar más en la creatividad del lenguaje para destacar aún más la emoción del encuentro."
+2013-04-20,QPR,Stoke,A,True,../reports/2013-04-20_QPR_vs_Stoke.txt,"**Sorpresa en Loftus Road: Stoke derrota a QPR**
+
+La jornada de la Premier League tuvo un giro inesperado en Loftus Road, donde el Stoke City logró una victoria contundente por 0-2 contra el Queens Park Rangers. A pesar de ser los favoritos según las cuotas, el QPR no pudo hacer valer su superioridad en el campo y cayó ante un Stoke City que jugó con inteligencia y determinación.
+
+El partido comenzó con un ritmo intenso, pero fue el Stoke quien se adelantó en el marcador gracias a un gol en la primera parte. Al descanso, el visitante lideraba 0-1, lo que generó una gran preocupación en el equipo local. A pesar de tener más tiros (25) y tiros al arco (11) que el Stoke, el QPR no pudo igualar el marcador. La estadística de faltas cometidas por el Stoke (14) podría haber sido su talón de Aquiles, pero el equipo supo manejar el partido con astucia.
+
+La forma reciente de ambos equipos había generado expectativas a favor del QPR, con 4 puntos en sus últimos 5 partidos, mientras que el Stoke había sumado solo 1 punto en el mismo período. Sin embargo, la diferencia de Elo de -52.7 puntos para el QPR no se reflejó en el campo, y el Stoke se llevó los tres puntos. Con esta victoria, el Stoke City demostró que puede ser un rival complicado para cualquier equipo en la Premier League. La sorpresa del resultado dejará al QPR buscando respuestas para mejorar su desempeño en los próximos partidos.",253,5,4,4,2,"La crónica presenta un problema de fidelidad con los datos proporcionados, ya que menciona un resultado específico (0-2) y otros detalles que no se encuentran en los datos proporcionados, que solo indican el resultado como 'A'."
+2014-05-03,Swansea,Southampton,A,True,../reports/2014-05-03_Swansea_vs_Southampton.txt,"**Sorpresa en Swansea: Southampton se lleva los tres puntos**
+
+En un partido emocionante y lleno de intensidad, el Southampton logró una victoria inesperada en el Liberty Stadium, derrotando al Swansea por 0-1. A pesar de ser el equipo favorito según las cuotas, el Swansea no pudo hacer valer su condición de local y sucumbió ante la solidez defensiva de los ""Saints"".
+
+El partido permaneció empatado 0-0 al descanso, pero en la segunda parte, el Southampton encontró la brecha para marcar el gol de la victoria. Las estadísticas del partido reflejan la igualdad entre ambos equipos, con 12 tiros del Swansea y 18 del Southampton, aunque los visitantes lograron más tiros al arco (4) que los locales (3).
+
+La forma reciente de ambos equipos había augurado una victoria para el Swansea, que acumulaba 9 puntos en sus últimos 5 partidos, mientras que el Southampton sumaba 7. Sin embargo, la diferencia de Elo de -39.5 puntos en favor de los locales no se reflejó en el resultado final. Esta sorprendente victoria del Southampton dejará a todos hablando en la Premier League.",179,5,2,4,2,"La crónica no coincide con el resultado 'A' proporcionado, que sugiere un empate"
+2004-05-01,Blackburn,Man United,H,True,../reports/2004-05-01_Blackburn_vs_Man_United.txt,"**Sorpresa en Ewood Park: Blackburn derrota al poderoso Manchester United**
+
+En un partido que nadie esperaba, el Blackburn Rovers logró una victoria inesperada sobre el Manchester United en la jornada de la Premier League. El encuentro, disputado en el Ewood Park, terminó con un marcador de 1-0 a favor de los locales, dejando a todos con la mouth abierta.
+
+El partido comenzó con un ritmo lento, sin goles en el primer tiempo, y con ambos equipos creando oportunidades pero sin poder concretar. Sin embargo, en la segunda parte, el Blackburn Rovers salió con más intensidad y logró anotar el gol de la victoria.
+
+Los datos del partido muestran que el Blackburn Rovers dominó en varios aspectos, con 12 tiros al arco y 5 corners, mientras que el Manchester United solo pudo llegar a 9 tiros y 4 corners. La estadística que más llama la atención es la diferencia de Elo entre ambos equipos, con el Manchester United teniendo 194.3 puntos más que el Blackburn Rovers, lo que hacía a los visitantes grandes favoritos para llevarse el triunfo. Esta victoria es un gran logro para el Blackburn Rovers, que ha demostrado su valía en la liga.",195,5,4,4,5,"La crónica fluye bien y presenta datos relevantes, aunque la estadística de Elo no se reflejó en los datos proporcionados inicialmente"
+2010-09-18,West Brom,Birmingham,H,False,../reports/2010-09-18_West_Brom_vs_Birmingham.txt,"**West Brom se Impone en una Remontada Épica**
+
+En un partido emocionante y lleno de giros inesperados, West Brom se llevó la victoria frente a Birmingham por 3-1 en la Premier League. A pesar de que los visitantes se adelantaron en el marcador al descanso con un 0-1, el equipo local logró una impresionante remontada en la segunda mitad.
+
+Con una clara superioridad en el juego, West Brom dominó las estadísticas, lanzando 16 tiros hacia la portería de Birmingham, de los cuales 10 fueron al arco. Además, los locales tuvieron 5 corners, lo que refleja su constante presión sobre el equipo visitante.
+
+La forma reciente de ambos equipos había generado expectativas, con West Brom sumando 5 puntos en sus últimos 5 partidos y Birmingham totalizando 6 puntos en el mismo período. Aunque la diferencia de Elo favorecía ligeramente a Birmingham, West Brom demostró su fortaleza en casa y se impuso como el favorito según las cuotas.
+
+Con solo una tarjeta amarilla para cada equipo y sin tarjetas rojas, el partido se desarrolló con un espíritu deportivo y una intensidad que mantuvo a los aficionados al borde de sus asientos. La victoria de West Brom no fue una sorpresa, ya que era el favorito para llevarse el partido, pero la forma en que lograron la remontada seguramente dejará una huella en la memoria de los fanáticos del fútbol inglés.",228,5,5,4,5,"La crónica es detallada y refleja bien el partido, aunque el lenguaje podría ser más dinámico en algunos puntos"
+2019-12-09,West Ham,Arsenal,A,False,../reports/2019-12-09_West_Ham_vs_Arsenal.txt,"**Vuelco en Londres: Arsenal remonta y vence a West Ham**
+
+En un emocionante partido de la Premier League, el Arsenal logró remontar un déficit inicial y vencer al West Ham por 1-3 en el estadio de los ""Hammers"". El encuentro comenzó con un West Ham envalentonado, que seputs adelantó en el marcador antes del descanso. Sin embargo, el Arsenal salió con otra actitud en la segunda mitad y logró dar vuelta al partido con tres goles.
+
+A pesar de que el West Ham intentó presionar con 11 tiros y 4 al arco, el Arsenal supo aprovechar sus oportunidades y salir victorioso. La estadística de faltas y tarjetas amarillas también reflejó la intensidad del partido, con 12 faltas cometidas por el West Ham y 2 tarjetas amarillas para los locales.
+
+Con este resultado, el Arsenal confirma su favoritismo y muestra su solidez en la liga. La diferencia de Elo de -115.3 puntos entre ambos equipos se hizo notar en la segunda mitad, donde el Arsenal demostró su superioridad. El resultado no sorprende, ya que el Arsenal era el favorito según las cuotas, y su forma reciente había sido similar a la del West Ham, con 3 puntos en los últimos 5 partidos.",201,5,3,4,2,"La crónica es interesante y bien escrita, pero carece de datos precisos del partido y presenta información no proporcionada inicialmente"
+2025-04-20,Fulham,Chelsea,A,False,../reports/2025-04-20_Fulham_vs_Chelsea.txt,"**""Chelsea Revuelve el Río en Craven Cottage""**
+
+En un emocionante encuentro en Craven Cottage, el Chelsea logró remontar un resultado adverso para imponerse 2-1 al Fulham en la Premier League. A pesar de que los locales se adelantaron en el marcador antes del descanso, los ""Blues"" demostraron su solidez y experiencia para dar vuelta el partido en la segunda mitad.
+
+Con un total de 13 tiros y 8 de ellos dirigidos al arco, el Chelsea mostró su superioridad en el ataque. Por otro lado, el Fulham intentó mantener el ritmo con 6 tiros, pero solo uno de ellos logró encontrar el camino al arco. La intensidad del partido se reflejó en las 22 faltas cometidas y las 4 tarjetas amarillas repartidas por el árbitro.
+
+La victoria del Chelsea no sorprendió a nadie, considerando su condición de favorito y su buena forma reciente, con 8 puntos en los últimos 5 partidos. Con esta victoria, el Chelsea consolidó su posición en la tabla y dejó al Fulham con 6 puntos en el mismo período. La diferencia de Elo de -61.8 puntos a favor de los visitantes se hizo notar en el campo, donde el Chelsea dominó gran parte del partido.",198,5,2,4,2,"La crónica contradice el resultado proporcionado (A), que sugiere un empate, y presenta una victoria del Chelsea"
+2006-12-30,Charlton,Aston Villa,H,False,../reports/2006-12-30_Charlton_vs_Aston_Villa.txt,"**""El Charlton se impone en un emocionante partido de vuelta""**
+
+El Charlton Athletic logró una importante victoria en casa al derrotar al Aston Villa por 2-1 en un partido de la Premier League disputado el 30 de diciembre de 2006. A pesar de que el Aston Villa se adelantó en el marcador al descanso, el Charlton logró remontar y llevarse los tres puntos.
+
+La estadística refleja la superioridad del Charlton, que dominó el juego con 14 tiros (8 al arco) y 7 corners, mientras que el Aston Villa solo logró 6 tiros (2 al arco) y 4 corners. La expulsión de un jugador del Aston Villa también pesó en el resultado final.
+
+Con esta victoria, el Charlton confirma su buena forma reciente, que suma 4 puntos en los últimos 5 partidos, mientras que el Aston Villa suma solo 2 puntos en el mismo período. La diferencia de Elo de -81.7 puntos también jugó en contra del equipo visitante. El Charlton cumple con su papel de favorito y se lleva los tres puntos en un partido emocionante.",176,5,5,4,5,"La crónica es clara, objetiva y cubre bien los datos del partido, aunque el título es un poco genérico y no refleja el resultado real del partido."
+2005-08-13,West Ham,Blackburn,H,False,../reports/2005-08-13_West_Ham_vs_Blackburn.txt,"**""West Ham Revuelve el Partido y Se Lleva la Victoria""**
+
+En un emocionante partido de la Premier League, West Ham logró remontar un marcador adverso y vencer a Blackburn por 3-1. A pesar de que los visitantes se adelantaron en el marcador antes del descanso, el equipo local demostró una notable capacidad de reacción y logró dar la vuelta al partido en la segunda mitad.
+
+Con un total de 13 tiros y 5 al arco, West Ham mostró una gran intensidad y determinación en su juego ofensivo. Por su parte, Blackburn intentó mantener su ventaja inicial, pero finalmente no pudo contener el empuje de los locales. La estadística de corners, con 6 oportunidades para los visitantes, no se tradujo en goles, mientras que West Ham aprovechó mejor sus ocasiones.
+
+La expulsión de un jugador de Blackburn y la tarjeta amarilla recibida por otro jugadores visitante influyeron en el desenlace del partido. Con esta victoria, West Ham suma 3 puntos importantes y continúa mostrando una buena forma, con 11 puntos en sus últimos 5 partidos. La diferencia de Elo entre ambos equipos se reflejó en el campo, y West Ham demostró ser el equipo más sólido y consistente.",197,5,4,4,2,La crónica presenta datos no proporcionados en los datos del partido
+2010-11-07,West Brom,Man City,A,False,../reports/2010-11-07_West_Brom_vs_Man_City.txt,"**City se impone en el Hawthorns**
+
+En un encuentro intenso y lleno de emoción, el Manchester City se llevó los tres puntos en su visita al West Brom, ganando por 0-2 en un partido donde la superioridad azulada se hizo notar desde el inicio. Al descanso, el City ya se había adelantado en el marcador 0-2, sentenciando virtualmente el destino del partido.
+
+A lo largo del encuentro, el City demostró su solidez y control, aupado por su forma reciente de 9 puntos en los últimos 5 partidos, mientras que el West Brom, con 8 puntos en el mismo período, no pudo igualar el ritmo de sus rivales. La estadística de tiros y tiros al arco refleja la igualdad en la generación de oportunidades, con 13 tiros para el local y 9 para el visitante, y 7 y 5 tiros al arco, respectivamente.
+
+La intensidad del partido se reflejó en las tarjetas amarillas y rojas repartidas, con 3 amarillas y 1 roja para el West Brom, y 4 amarillas y 1 roja para el City, lo que dejó a ambos equipos con 10 jugadores en el campo durante parte del juego. Con esta victoria, el Manchester City confirma su condición de favorito y afianza su posición en la tabla, mientras que el West Brom sufre un revés en su intento por ascender en la clasificación. La diferencia de Elo de -117.1 puntos a favor del City se hizo notar en la cancha, dejando al West Brom con la tarea de replantear su estrategia para futuros desafíos.",255,5,2,4,1,"La crónica inventa detalles del partido como el marcador y estadísticas, contradiciendo la falta de información sobre el resultado real"
+2021-02-20,Burnley,West Brom,D,False,../reports/2021-02-20_Burnley_vs_West_Brom.txt,"**Empate sin brillar: Burnley y West Brom se reparten los puntos**
+
+En un partido disputado en el Turf Moor de Burnley, los locales recibieron a West Brom en una jornada que terminó con un empate a cero goles. A pesar de ser los favoritos según las cuotas, Burnley no logró imponer su dominio y se vio frenado por una sólida defensa visitante.
+
+El desarrollo del partido fue intenso, con ambos equipos generando ocasiones claras de gol. Sin embargo, la falta de precisión y eficacia en el ataque hizo que el marcador se mantuviera en cero. Los visitantes, con 10 tiros a puerta, intentaron aprovechar las oportunidades, pero solo 3 de ellos encontraron el arco. Por su parte, Burnley solo logró 1 tiro al arco en todo el partido.
+
+La estadística que más llama la atención es la diferencia en tarjetas amarillas, con 3 para Burnley y ninguna para West Brom, aunque los visitantes vieron la tarjeta roja. El partido se tornó más complicado para West Brom después de la expulsión, pero Burnley no pudo aprovechar la ventaja numérica para anotar. La diferencia en forma reciente entre ambos equipos, con 5 puntos para Burnley y 2 para West Brom en los últimos 5 partidos, se reflejó en el ritmo del juego, aunque no en el resultado final. Con esta igualada, Burnley mantiene su ventaja en la clasificación, mientras que West Brom busca mejorar su posición en la tabla.",237,5,5,4,5,"La crónica es clara, detallada y se ajusta a los datos proporcionados, ofreciendo un buen análisis del partido."
+2005-04-09,Bolton,Fulham,H,False,../reports/2005-04-09_Bolton_vs_Fulham.txt,"**Victoria contundente de Bolton sobre Fulham en la Premier League**
+
+El equipo de Bolton demostró su superioridad en el partido disputado en su estadio contra el Fulham, ganando por un marcador de 3-1. Desde el principio, los locales tomaron el control del partido y se fueron al descanso con una ventaja de 2-0, lo que les dio una gran confianza para la segunda parte.
+
+Las estadísticas del partido reflejan la dominancia de Bolton, que disparó 15 tiros hacia la portería de Fulham, de los cuales 10 fueron al arco. Por su parte, el equipo visitante apenas logró 7 tiros, con 4 de ellos dirigidos al arco de Bolton. La diferencia en faltas también fue notable, con 14 cometidas por Fulham frente a las 6 de Bolton.
+
+La expulsión de un jugador del Fulham en el transcurso del partido complicó aún más las cosas para el equipo visitante. Con esta victoria, Bolton suma 3 puntos importantes y mantiene su buena forma reciente, que les ha permitido sumar 7 puntos en los últimos 5 partidos. Por otro lado, Fulham sigue sumando dificultades en su camino, con solo 4 puntos en los últimos 5 partidos. La diferencia de 61.1 puntos en el ranking Elo entre ambos equipos se hizo notar en el campo, y Bolton se llevó el triunfo sin sorpresas.",218,5,5,4,5,"La crónica refleja con claridad el desarrollo del partido y los datos estadísticos, mostrando una buena capacidad descriptiva y análisis del juego."
+2010-11-20,Bolton,Newcastle,H,False,../reports/2010-11-20_Bolton_vs_Newcastle.txt,"**Bolton Arrolla a Newcastle con un Contundente 5-1**
+
+En un partido que se esperaba dominado por el equipo local, Bolton no defraudó y se llevó una victoria convincente por 5-1 ante Newcastle en la Premier League. Desde el inicio, Bolton mostró su superioridad, logrando un 2-0 al descanso que sentenció el partido.
+
+Las estadísticas respaldan el dominio de Bolton, con 18 tiros totales, de los cuales 9 fueron al arco, en comparación con los 6 tiros y solo 1 al arco de Newcastle. La posesión y el control del juego fueron casi absolutos por parte del equipo local, que también mostró una notable eficiencia goleadora.
+
+Aunque Newcastle intentó reaccionar en la segunda parte, la expulsión de uno de sus jugadores complicó aún más su tarea. Bolton, con su forma reciente de 8 puntos en los últimos 5 partidos, demostró ser un rival demasiado fuerte para los visitantes, quienes, pese a tener una forma reciente ligeramente mejor con 10 puntos, no pudieron contrarrestar la fuerza del equipo local.
+
+La diferencia de Elo de -26.5 puntos a favor de Bolton se hizo notar en el campo, y el resultado final de 5-1 refleja con claridad la superioridad del equipo local en este encuentro. Con esta victoria, Bolton consolida su posición en la tabla y muestra que es un equipo a tener en cuenta en la competición.",224,5,5,4,5,"La crónica es clara, bien estructurada y utiliza los datos del partido de manera efectiva, aunque podría profundizar más en detalles emocionales o dramáticos del partido para aumentar la creatividad."
+2023-12-17,Liverpool,Man United,D,False,../reports/2023-12-17_Liverpool_vs_Man_United.txt,"**""Liverpool y Man United se neutralizan en Anfield""**
+
+La emotiva jornada de la Premier League vivió un partido expectante en Anfield, donde Liverpool y Manchester United se enfrentaron en un duelo de titanes que terminó sin goles. A pesar de la supremacía de los ""Reds"" en el juego, con 34 tiros a puerta y 12 corners, no pudieron romper la sólida defensa del United.
+
+El encuentro se desarrolló con un claro dominio local, pero la efectividad delante del arco fue la gran ausencia. Los visitantes, por su parte, sufrieron la expulsión de uno de sus jugadores, lo que complicó su tarea. Las estadísticas reflejan la superioridad de Liverpool, con 8 tiros al arco y solo 1 para el United.
+
+Aunque el resultado fue un empate, la forma reciente de ambos equipos y la diferencia de Elo de 146.7 puntos a favor de Liverpool hacían de los locales los favoritos. Sin embargo, el United demostró ser un rival difícil de vencer. Con este resultado, Liverpool mantiene su racha de buenos resultados, mientras que el United sigue buscando mejorar su forma en la competición. La igualdad en el marcador refleja la igualdad en la lucha por los puntos en esta emocionante Premier League.",201,5,4,4,3,"La crónica tiene algunas inexactitudes en las estadísticas y detalles del partido, como la expulsión de un jugador del United y la cantidad de tiros al arco, que no se mencionan en los datos proporcionados"
