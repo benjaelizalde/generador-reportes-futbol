@@ -1,6 +1,6 @@
 # Generador de Reportes de Partidos de Fútbol
 
-Trabajo Práctico Integrador Grupo 9 — Ciencia de Datos 2026  
+Trabajo Práctico Integrador — Ciencia de Datos 2026 — Grupo 9  
 UTN Facultad Regional La Plata — Ingeniería en Sistemas de Información
 
 ---
