@@ -26,6 +26,27 @@ El pipeline toma datos estructurados de un partido (resultado, tiros, corners, t
 
 ---
 
+## Estructura del Proyecto
+
+```bash
+   generador-reportes-futbol/
+   ├── data/
+   │   ├── raw/                   # Dataset original (no versionado)
+   │   └── processed/             # Dataset limpio generado por el pipeline
+   ├── notebooks/
+   │   ├── 01_eda.ipynb           # Análisis exploratorio de datos
+   │   ├── 02_preprocessing.ipynb # Limpieza y preparación
+   │   ├── 03_prompting.ipynb     # Diseño del pipeline y generación
+   │   └── 04_evaluation.ipynb    # Evaluación de resultados
+   ├── reports/                   # Crónicas generadas
+   ├── .env                       # API Key (no versionado)
+   ├── .gitignore
+   ├── requirements.txt
+   └── README.md
+```
+
+---
+
 ## Tecnologías Utilizadas
 
 - **Python 3.x**
