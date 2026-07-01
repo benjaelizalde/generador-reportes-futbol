@@ -34,10 +34,11 @@ El pipeline toma datos estructurados de un partido (resultado, tiros, corners, t
    │   ├── raw/                   # Dataset original (no versionado)
    │   └── processed/             # Dataset limpio generado por el pipeline
    ├── notebooks/
-   │   ├── 01_eda.ipynb           # Análisis exploratorio de datos
-   │   ├── 02_preprocessing.ipynb # Limpieza y preparación
-   │   ├── 03_prompting.ipynb     # Diseño del pipeline y generación
-   │   └── 04_evaluation.ipynb    # Evaluación de resultados
+   │   ├── 00_download_dataset.ipynb # Descarga automática desde Kaggle
+   │   ├── 01_eda.ipynb              # Análisis exploratorio de datos
+   │   ├── 02_preprocessing.ipynb    # Limpieza y preparación
+   │   ├── 03_prompting.ipynb        # Diseño del pipeline y generación
+   │   └── 04_evaluation.ipynb       # Evaluación de resultados
    ├── reports/                   # Crónicas generadas
    ├── .env                       # API Key (no versionado)
    ├── .gitignore
@@ -64,7 +65,8 @@ Fuente: [Kaggle](https://www.kaggle.com/datasets/adamgbor/club-football-match-da
 Liga utilizada: **Premier League (E0)**  
 Partidos disponibles: **9.325** (temporadas 2000/01 a 2024/25)
 
-> El archivo `Matches.csv` debe descargarse manualmente desde Kaggle y colocarse en `data/raw/`.
+> El archivo `Matches.csv` debe estar en `data/raw/`. Podés descargarlo manualmente desde Kaggle
+> o ejecutar el notebook `notebooks/00_download_dataset.ipynb` (requiere credenciales de la API de Kaggle).
 
 ---
 
@@ -85,9 +87,11 @@ Partidos disponibles: **9.325** (temporadas 2000/01 a 2024/25)
 
    `GROQ_API_KEY=tu_clave_acá`
 
-4. Descargar el dataset desde Kaggle y colocarlo en `data/raw/Matches.csv`
+4. Obtener el dataset en `data/raw/Matches.csv`:
+   - **Automático:** ejecutar `notebooks/00_download_dataset.ipynb` (ver requisitos de credenciales Kaggle en el notebook).
+   - **Manual:** descargar `Matches.csv` desde Kaggle y colocarlo en `data/raw/`.
 
-5. Ejecutar los notebooks en orden dentro de la carpeta `notebooks/`
+5. Ejecutar los notebooks en orden dentro de la carpeta `notebooks/` (empezando por `01_eda.ipynb` si ya descargaste el dataset con el paso 4).
 
 ---
 
@@ -95,6 +99,7 @@ Partidos disponibles: **9.325** (temporadas 2000/01 a 2024/25)
 
 | Notebook | Descripción |
 |----------|-------------|
+| `00_download_dataset.ipynb` | Descarga de `Matches.csv` desde Kaggle hacia `data/raw/` |
 | `01_eda.ipynb` | Exploración del dataset, visualización de distribuciones y patrones |
 | `02_preprocessing.ipynb` | Selección de columnas, manejo de nulos y variables derivadas |
 | `03_prompting.ipynb` | Diseño del prompt, integración con Groq y generación de crónicas |
