@@ -39,6 +39,7 @@ El pipeline toma datos estructurados de un partido (resultado, tiros, corners, t
    │   ├── 02_preprocessing.ipynb    # Limpieza y preparación
    │   ├── 03_prompting.ipynb        # Diseño del pipeline y generación
    │   └── 04_evaluation.ipynb       # Evaluación de resultados
+   │   └── 05_demo.ipynb             # Demostración en vivo
    ├── reports/                   # Crónicas generadas
    ├── .env                       # API Key (no versionado)
    ├── .gitignore
@@ -104,6 +105,7 @@ Partidos disponibles: **9.325** (temporadas 2000/01 a 2024/25)
 | `02_preprocessing.ipynb` | Selección de columnas, manejo de nulos y variables derivadas |
 | `03_prompting.ipynb` | Diseño del prompt, integración con Groq y generación de crónicas |
 | `04_evaluation.ipynb` | Análisis crítico de la calidad y coherencia del contenido generado |
+| `05_demo.ipynb` | Búsqueda de partidos por equipo y generación de reportes en vivo |
 
 ---
 
