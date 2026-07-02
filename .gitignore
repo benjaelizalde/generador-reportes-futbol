@@ -1,5 +1,6 @@
 #Agregados
 data/raw/
+data/vector_db
 reports/
 # Byte-compiled / optimized / DLL files
 __pycache__/
