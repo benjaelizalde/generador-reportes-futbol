@@ -58,7 +58,7 @@ El pipeline toma datos estructurados de un partido (resultado, tiros, corners, t
 
 ## Tecnologías Utilizadas
 
-- **Python 3.x**
+- **Python >= 3.10**
 - **Pandas** — manipulación y limpieza de datos
 - **Matplotlib / Seaborn** — visualización
 - **Streamlit** — interfaz web para la demostración en vivo
